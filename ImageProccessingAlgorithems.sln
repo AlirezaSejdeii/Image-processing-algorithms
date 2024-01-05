@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProccessingAlgorithems", "ImageProccessingAlgorithems\ImageProccessingAlgorithems.csproj", "{F05CE6A5-99EC-4193-9383-A3167072EFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSegmentation", "ImageSegmentation\ImageSegmentation.csproj", "{72D91170-65C9-4C49-8770-BB3444551F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportImageAttribute", "ExportImageAttribute\ExportImageAttribute.csproj", "{BCF6268E-20A5-4761-936E-F4A7DAD7C9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05CE6A5-99EC-4193-9383-A3167072EFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05CE6A5-99EC-4193-9383-A3167072EFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05CE6A5-99EC-4193-9383-A3167072EFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05CE6A5-99EC-4193-9383-A3167072EFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D91170-65C9-4C49-8770-BB3444551F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D91170-65C9-4C49-8770-BB3444551F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D91170-65C9-4C49-8770-BB3444551F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D91170-65C9-4C49-8770-BB3444551F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF6268E-20A5-4761-936E-F4A7DAD7C9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF6268E-20A5-4761-936E-F4A7DAD7C9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF6268E-20A5-4761-936E-F4A7DAD7C9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF6268E-20A5-4761-936E-F4A7DAD7C9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

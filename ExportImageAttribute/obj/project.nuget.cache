@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUrDU93yPs/jUj2316xvYkSvUls6m29tDpe215Y2n5dRrl3juhPFpB0kL/PUNz2xgbCHOquy5mJIGv6wZ4dC7A==",
+  "success": true,
+  "projectFilePath": "D:\\Desk\\Uni\\Bachler\\S3\\ImageProccesing\\Research\\code\\ImageProccessingAlgorithems\\ExportImageAttribute\\ExportImageAttribute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silver\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Silver\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

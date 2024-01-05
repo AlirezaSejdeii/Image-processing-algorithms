@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iE0WK1osQZ8sLcBmQ8/N5ZSQkeocSmyXKfV+bBUKT/rIBpZfmzGPE0NfKK1jnecnbSknvJJ5mDeJF5Fvb01eoA==",
+  "success": true,
+  "projectFilePath": "D:\\Desk\\Uni\\Bachler\\S3\\ImageProccesing\\Research\\code\\ImageProccessingAlgorithems\\ImageProccessingAlgorithems\\ImageProccessingAlgorithems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silver\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Silver\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
